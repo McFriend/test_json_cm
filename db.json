@@ -1,1 +1,162 @@
-[{"stories":{"stories":[{"id":"s1","image_url":"https://puu.sh/GEJtC/89c49f4e8a.png","target":["main","tariff_selection"],"tariff_group_id":"5","date":"дата создания","is_shown":false,"is_watched":false,"slides":[{"id":"s1_sl1","background_color":"#B8DBC9","background_color_dark":"#2D3841","image_url":"https://puu.sh/GEJId/89fd3e1ae9.png","video_url":"","title":"Скидка 15% за долгое ожидание","subtitle":"Ждать всегда неприятно. Но промокод на следующую поездку поможет немного поднять настроение","show_time_sec":10,"buttons":[]},{"id":"s1_sl1","background_color":"#D1C0E5","background_color_dark":"#D1C0E5","image_url":"https://puu.sh/GEJID/b7b5161ffd.png","video_url":"","title":"Скидка 15%","subtitle":"Ждать всегда неприятно. Но промокод на следующую поездку поможет немного поднять настроение","show_time_sec":10,"buttons":[{"id":"1","title":"Подробные условия","background_color":"#FFFFFF","background_color_dark":"#FFFFFF","web_url":"https://city-mobil.ru","deeplink_url":""},{"id":"2","title":"К заказу","background_color":"#FFFFFF","background_color_dark":"#FFFFFF","web_url":"","deeplink_url":"citymobil-taxi://ride?from=55.8144,37.0146&from_str=Пролетарка&to=55.763973,37.651855&to_str=Не%20Пролетарка&tariff=5"}]}]},{"id":"s2","image_url":"https://puu.sh/GEJtJ/a42f5777d9.png","target":["main","tariff_selection"],"tariff_group_id":"","date":"дата создания","is_shown":false,"is_watched":false,"slides":[{"id":"s2_sl1","background_color":"#E6D5B1","background_color_dark":"#E6D5B1","image_url":"https://puu.sh/GEJKn/50701bc590.png","video_url":"https://puu.sh/GEJOI/4877c095ff.mp4","title":"Промокод на следующую поездку поможет немного поднять настроение, вырастить сына, построить дом","subtitle":"","show_time_sec":10,"buttons":[{"id":"1","title":"Подробные условия","background_color":"#FFFFFF","background_color_dark":"#FFFFFF","web_url":"https://city-mobil.ru","deeplink_url":""},{"id":"2","title":"К заказу","background_color":"#FFFFFF","background_color_dark":"#FFFFFF","web_url":"","deeplink_url":"citymobil-taxi://ride?from=55.8144,37.0146&from_str=Пролетарка&to=55.763973,37.651855&to_str=Не%20Пролетарка&tariff=5"}]},{"id":"s2_sl2","background_color":"#B8DBC9","background_color_dark":"#B8DBC9","image_url":"https://puu.sh/GEJKU/cbc03f662a.png","video_url":"","title":"Промокод на следующую поездку поможет вам немного поднять настроение","subtitle":"","show_time_sec":10,"buttons":[]}]},{"id":"s3","image_url":"https://puu.sh/GEJtJ/a42f5777d9.png","target":["main"],"tariff_group_id":"","date":"дата создания","is_shown":true,"is_watched":true,"slides":[{"id":"s3_sl1","background_color":"#E6D5B1","background_color_dark":"#E6D5B1","image_url":"https://puu.sh/GEJKn/50701bc590.png","video_url":"https://puu.sh/GEJOI/4877c095ff.mp4","title":"Промокод на следующую поездку поможет немного поднять настроение, вырастить сына, построить дом","subtitle":"","show_time_sec":10,"buttons":[{"id":"1","title":"Подробные условия","background_color":"#FFFFFF","background_color_dark":"#FFFFFF","web_url":"https://city-mobil.ru","deeplink_url":""},{"id":"2","title":"К заказу","background_color":"#FFFFFF","background_color_dark":"#FFFFFF","web_url":"","deeplink_url":"citymobil-taxi://ride?from=55.8144,37.0146&from_str=Пролетарка&to=55.763973,37.651855&to_str=Не%20Пролетарка&tariff=5"}]},{"id":"s3_sl2","background_color":"#B8DBC9","background_color_dark":"#B8DBC9","image_url":"https://puu.sh/GEJKU/cbc03f662a.png","video_url":"","title":"Промокод на следующую поездку поможет вам немного поднять настроение","subtitle":"","show_time_sec":10,"buttons":[]}]}]}}]
+{
+    "stories": [
+        {
+            "id": "s1",
+            "image_url": "https://puu.sh/GEJtC/89c49f4e8a.png",
+            "target": [
+                "main",
+                "tariff_selection"
+            ],
+            "tariff_group_id": "5",
+            "date": "дата создания",
+            "is_shown": false,
+            "is_watched": false,
+            "slides": [
+                {
+                    "id": "s1_sl1",
+                    "background_color": "#B8DBC9",
+                    "background_color_dark": "#2D3841",
+                    "image_url": "https://puu.sh/GEJId/89fd3e1ae9.png",
+                    "video_url": "",
+                    "title": "Скидка 15% за долгое ожидание",
+                    "subtitle": "Ждать всегда неприятно. Но промокод на следующую поездку поможет немного поднять настроение",
+                    "show_time_sec": 10,
+                    "buttons": []
+                },
+                {
+                    "id": "s1_sl1",
+                    "background_color": "#D1C0E5",
+                    "background_color_dark": "#D1C0E5",
+                    "image_url": "https://puu.sh/GEJID/b7b5161ffd.png",
+                    "video_url": "",
+                    "title": "Скидка 15%",
+                    "subtitle": "Ждать всегда неприятно. Но промокод на следующую поездку поможет немного поднять настроение",
+                    "show_time_sec": 10,
+                    "buttons": [
+                        {
+                            "id": "1",
+                            "title": "Подробные условия",
+                            "background_color": "#FFFFFF",
+                            "background_color_dark": "#FFFFFF",
+                            "web_url": "https://city-mobil.ru",
+                            "deeplink_url": ""
+                        },
+                        {
+                            "id": "2",
+                            "title": "К заказу",
+                            "background_color": "#FFFFFF",
+                            "background_color_dark": "#FFFFFF",
+                            "web_url": "",
+                            "deeplink_url": "citymobil-taxi://ride?from=55.8144,37.0146&from_str=Пролетарка&to=55.763973,37.651855&to_str=Не%20Пролетарка&tariff=5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s2",
+            "image_url": "https://puu.sh/GEJtJ/a42f5777d9.png",
+            "target": [
+                "main",
+                "tariff_selection"
+            ],
+            "tariff_group_id": "",
+            "date": "дата создания",
+            "is_shown": false,
+            "is_watched": false,
+            "slides": [
+                {
+                    "id": "s2_sl1",
+                    "background_color": "#E6D5B1",
+                    "background_color_dark": "#E6D5B1",
+                    "image_url": "https://puu.sh/GEJKn/50701bc590.png",
+                    "video_url": "https://puu.sh/GEJOI/4877c095ff.mp4",
+                    "title": "Промокод на следующую поездку поможет немного поднять настроение, вырастить сына, построить дом",
+                    "subtitle": "",
+                    "show_time_sec": 10,
+                    "buttons": [
+                        {
+                            "id": "1",
+                            "title": "Подробные условия",
+                            "background_color": "#FFFFFF",
+                            "background_color_dark": "#FFFFFF",
+                            "web_url": "https://city-mobil.ru",
+                            "deeplink_url": ""
+                        },
+                        {
+                            "id": "2",
+                            "title": "К заказу",
+                            "background_color": "#FFFFFF",
+                            "background_color_dark": "#FFFFFF",
+                            "web_url": "",
+                            "deeplink_url": "citymobil-taxi://ride?from=55.8144,37.0146&from_str=Пролетарка&to=55.763973,37.651855&to_str=Не%20Пролетарка&tariff=5"
+                        }
+                    ]
+                },
+                {
+                    "id": "s2_sl2",
+                    "background_color": "#B8DBC9",
+                    "background_color_dark": "#B8DBC9",
+                    "image_url": "https://puu.sh/GEJKU/cbc03f662a.png",
+                    "video_url": "",
+                    "title": "Промокод на следующую поездку поможет вам немного поднять настроение",
+                    "subtitle": "",
+                    "show_time_sec": 10,
+                    "buttons": []
+                }
+            ]
+        },
+        {
+            "id": "s3",
+            "image_url": "https://puu.sh/GEJtJ/a42f5777d9.png",
+            "target": [
+                "main"
+            ],
+            "tariff_group_id": "",
+            "date": "дата создания",
+            "is_shown": true,
+            "is_watched": true,
+            "slides": [
+                {
+                    "id": "s3_sl1",
+                    "background_color": "#E6D5B1",
+                    "background_color_dark": "#E6D5B1",
+                    "image_url": "https://puu.sh/GEJKn/50701bc590.png",
+                    "video_url": "https://puu.sh/GEJOI/4877c095ff.mp4",
+                    "title": "Промокод на следующую поездку поможет немного поднять настроение, вырастить сына, построить дом",
+                    "subtitle": "",
+                    "show_time_sec": 10,
+                    "buttons": [
+                        {
+                            "id": "1",
+                            "title": "Подробные условия",
+                            "background_color": "#FFFFFF",
+                            "background_color_dark": "#FFFFFF",
+                            "web_url": "https://city-mobil.ru",
+                            "deeplink_url": ""
+                        },
+                        {
+                            "id": "2",
+                            "title": "К заказу",
+                            "background_color": "#FFFFFF",
+                            "background_color_dark": "#FFFFFF",
+                            "web_url": "",
+                            "deeplink_url": "citymobil-taxi://ride?from=55.8144,37.0146&from_str=Пролетарка&to=55.763973,37.651855&to_str=Не%20Пролетарка&tariff=5"
+                        }
+                    ]
+                },
+                {
+                    "id": "s3_sl2",
+                    "background_color": "#B8DBC9",
+                    "background_color_dark": "#B8DBC9",
+                    "image_url": "https://puu.sh/GEJKU/cbc03f662a.png",
+                    "video_url": "",
+                    "title": "Промокод на следующую поездку поможет вам немного поднять настроение",
+                    "subtitle": "",
+                    "show_time_sec": 10,
+                    "buttons": []
+                }
+            ]
+        }
+    ]
+}
